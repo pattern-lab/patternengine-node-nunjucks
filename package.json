@@ -52,5 +52,5 @@
   "scripts": {
     "test": "grunt travis --verbose"
   },
-  "version": "0.1.2"
+  "version": "0.1.3"
 }
